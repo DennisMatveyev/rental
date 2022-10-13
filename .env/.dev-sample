@@ -1,0 +1,9 @@
+DEBUG=1
+SECRET_KEY=django-insecure-+6vohvivjad28=a^0d2lqa5#(bh%m%h9en20a3wrlb8=c&#q^*
+
+SQL_ENGINE=django.db.backends.postgresql
+SQL_DATABASE=rental_project
+SQL_USER=rental_project
+SQL_PASSWORD=rental_project
+SQL_HOST=db
+SQL_PORT=5432
